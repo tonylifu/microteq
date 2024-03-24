@@ -3,29 +3,29 @@ spring:
     name: sms-service
   profiles:
     active: production
-    datasource:
-      url: jdbc:postgresql://localhost:5432/webstartrek?currentSchema=kusaki
-      username: webstartrek
-      password: webstartrek
-      driver-class-name: org.postgresql.Driver
-    jpa:
-      hibernate:
-        ddl-auto: update
-      show-sql: false
+  datasource:
+    url: jdbc:postgresql://localhost:5432/webstartrek?currentSchema=kusaki
+    username: webstartrek
+    password: webstartrek
+    driver-class-name: org.postgresql.Driver
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: false
   #  scan:
   #    base-packages:
   #      - com.microteq.sms
   #      - com.microteq.sms.student
   #      - com.microteq.sms.user
 
-  server:
-    port: 9080
+server:
+  port: 9080
 
-  logging:
-    level:
-      org.springframework.security: trace
+logging:
+  level:
+    org.springframework.security: trace
 
   #jwt
-  jwt:
-    rsa-private-key: classpath:certs/privateKey.pem
-    rsa-public-key: classpath:certs/publicKey.pem
+jwt:
+  rsa-private-key: classpath:certs/privateKey.pem
+  rsa-public-key: classpath:certs/publicKey.pem
