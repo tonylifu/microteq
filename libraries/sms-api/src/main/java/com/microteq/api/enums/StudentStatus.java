@@ -31,6 +31,6 @@ public enum StudentStatus {
                 return studentStatus;
             }
         }
-        throw new IllegalArgumentException("Unknown gender: " + value);
+        throw new IllegalArgumentException("Unknown status: " + value);
     }
 }
