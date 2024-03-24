@@ -1,5 +1,5 @@
 rootProject.name = 'microteq'
 include 'libraries:sms-api', 'libraries:student', 'libraries:user'
-include 'services:sms-service'
+include 'services:sms-service', 'services:authentication-service'
 findProject(':libraries:sms-api')?.name = 'sms-api'
 

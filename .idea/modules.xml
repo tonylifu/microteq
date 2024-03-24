@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/libraries/sms-api/microteq.libraries.sms-api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/libraries/sms-api/microteq.libraries.sms-api.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/authentication-service/microteq.services.authentication-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/authentication-service/microteq.services.authentication-service.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/services/sms-service/microteq.services.sms-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/services/sms-service/microteq.services.sms-service.main.iml" />
     </modules>
   </component>

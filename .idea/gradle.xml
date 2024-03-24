@@ -13,6 +13,7 @@
             <option value="$PROJECT_DIR$/libraries/student" />
             <option value="$PROJECT_DIR$/libraries/user" />
             <option value="$PROJECT_DIR$/services" />
+            <option value="$PROJECT_DIR$/services/authentication-service" />
             <option value="$PROJECT_DIR$/services/sms-service" />
           </set>
         </option>
@@ -27,6 +28,7 @@
             <option value="$PROJECT_DIR$/libraries/student" />
             <option value="$PROJECT_DIR$/libraries/user" />
             <option value="$PROJECT_DIR$/services" />
+            <option value="$PROJECT_DIR$/services/authentication-service" />
             <option value="$PROJECT_DIR$/services/sms-service" />
           </set>
         </option>
@@ -41,6 +43,7 @@
             <option value="$PROJECT_DIR$/libraries/student" />
             <option value="$PROJECT_DIR$/libraries/user" />
             <option value="$PROJECT_DIR$/services" />
+            <option value="$PROJECT_DIR$/services/authentication-service" />
             <option value="$PROJECT_DIR$/services/sms-service" />
           </set>
         </option>
@@ -55,6 +58,7 @@
             <option value="$PROJECT_DIR$/libraries/student" />
             <option value="$PROJECT_DIR$/libraries/user" />
             <option value="$PROJECT_DIR$/services" />
+            <option value="$PROJECT_DIR$/services/authentication-service" />
             <option value="$PROJECT_DIR$/services/sms-service" />
           </set>
         </option>
@@ -69,6 +73,7 @@
             <option value="$PROJECT_DIR$/libraries/student" />
             <option value="$PROJECT_DIR$/libraries/user" />
             <option value="$PROJECT_DIR$/services" />
+            <option value="$PROJECT_DIR$/services/authentication-service" />
             <option value="$PROJECT_DIR$/services/sms-service" />
           </set>
         </option>
@@ -77,7 +82,14 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$/services/authentication-service" />
         <option name="modules">
           <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/libraries" />
+            <option value="$PROJECT_DIR$/libraries/sms-api" />
+            <option value="$PROJECT_DIR$/libraries/student" />
+            <option value="$PROJECT_DIR$/libraries/user" />
+            <option value="$PROJECT_DIR$/services" />
             <option value="$PROJECT_DIR$/services/authentication-service" />
+            <option value="$PROJECT_DIR$/services/sms-service" />
           </set>
         </option>
       </GradleProjectSettings>
@@ -91,6 +103,7 @@
             <option value="$PROJECT_DIR$/libraries/student" />
             <option value="$PROJECT_DIR$/libraries/user" />
             <option value="$PROJECT_DIR$/services" />
+            <option value="$PROJECT_DIR$/services/authentication-service" />
             <option value="$PROJECT_DIR$/services/sms-service" />
           </set>
         </option>
