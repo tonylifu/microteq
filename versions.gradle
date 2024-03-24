@@ -1,0 +1,10 @@
+ext.versions=[
+        grpc: '1.39.0',
+        utils: '1.16.4',
+        comms: '1.22.0',
+        vavr: '0.10.4',
+]
+ext['groovy.version'] = versions.groovy
+ext['jooq.version'] = versions.jooq
+ext['junit-jupiter.version'] = versions.jupiter.engine
+ext['flyway.version'] = versions.flyway
